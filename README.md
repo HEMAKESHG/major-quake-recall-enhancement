@@ -21,7 +21,7 @@ This project focuses on improving the recall of major earthquake predictions by 
 ---
 
 ## 📁 Project Structure
-
+```
 ├── app.py
 ├── models/
 ├── data/
@@ -29,7 +29,7 @@ This project focuses on improving the recall of major earthquake predictions by 
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 
 ---
 
